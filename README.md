@@ -29,4 +29,4 @@ Since the data is de-normalized.
 
 - Similarly applied group by to find products in each category.
 </br>
-  ![image](https://github.com/user-attachments/assets/9f75ebc6-2553-478a-90db-e133487465ba)
+![image](https://github.com/user-attachments/assets/9f75ebc6-2553-478a-90db-e133487465ba)
